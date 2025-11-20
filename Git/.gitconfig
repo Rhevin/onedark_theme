@@ -1,0 +1,47 @@
+# COLORS
+# ------
+# One Dark Pro Theme
+[color]
+  ui = auto
+
+[color "branch"]
+  current = cyan bold reverse       # #56b6c2
+  local = white                     # #abb2bf
+  plain =
+  remote = cyan                     # #56b6c2
+
+[color "diff"]
+  commit =
+  func = cyan                       # #56b6c2
+  plain =
+  whitespace = magenta reverse      # #c678dd
+  meta = white                      # #abb2bf
+  frag = cyan bold reverse          # #56b6c2
+  old = red                         # #e06c75
+  new = green                       # #98c379
+
+[color "grep"]
+  context =
+  filename = blue                   # #61afef
+  function = green                  # #98c379
+  linenumber = white                # #abb2bf
+  match = yellow                    # #e5c07b
+  selected = magenta                # #c678dd
+  separator = cyan                  # #56b6c2
+
+[color "interactive"]
+  error = red                       # #e06c75
+  header = blue                     # #61afef
+  help = white                      # #abb2bf
+  prompt = green                    # #98c379
+
+[color "status"]
+  added = green                     # #98c379
+  changed = yellow                  # #e5c07b
+  header =
+  localBranch = cyan                # #56b6c2
+  nobranch = red                    # #e06c75
+  remoteBranch = cyan bold          # #56b6c2
+  unmerged = magenta bold reverse   # #c678dd
+  untracked = red                   # #e06c75
+  updated = green bold              # #98c379
