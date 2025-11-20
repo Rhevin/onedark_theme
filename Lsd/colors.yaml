@@ -1,0 +1,55 @@
+# OneDark color theme for lsd
+
+user: "#e5c07b"
+group: "#d19a66"
+
+permission:
+  read: "#98c379"
+  write: "#e5c07b"
+  exec: "#e06c75"
+  exec-sticky: "#56b6c2"
+  no-access: "#5c6370"
+  octal: "#c678dd"
+  acl: "#e06c75"
+  context: "#56b6c2"
+
+file-type:
+  file:
+    exec-uid: "#e06c75"
+    uid-no-exec: "#d19a66"
+    exec-sticky: "#c678dd"
+    sticky-no-exec: "#d19a66"
+  dir:
+    uid: "#61afef"
+    sticky: "#282c34"
+    no-sticky: "#61afef"
+  pipe: "#e5c07b"
+  symlink:
+    default: "#56b6c2"
+    broken: "#e06c75"
+    missing-file: "#e06c75"
+  block-device: "#d19a66"
+  char-device: "#e5c07b"
+  socket: "#e06c75"
+  special: "#e5c07b"
+
+date:
+  hour-old: "#abb2bf"
+  day-old: "#98c379"
+  older: "#5c6370"
+
+size:
+  none: "#abb2bf"
+  small: "#98c379"
+  medium: "#e5c07b"
+  large: "#d19a66"
+
+inode:
+  valid: "#abb2bf"
+  invalid: "#5c6370"
+
+links:
+  valid: "#abb2bf"
+  invalid: "#e06c75"
+
+tree-edge: "#5c6370"
