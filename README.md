@@ -4,6 +4,7 @@ Collection of onedark themes
 Color palette inspired by (https://github.com/Binaryify/OneDark-Pro)
 
 - [Fzf](Fzf/fzf.zsh)
+- [Ghostty](Ghostty/onedark)
 - [Git](Git/.gitconfig)
 - [SequelAce OneDarkPro themes](SequelAce/OneDark.spTheme)
 - [Vim](https://github.com/joshdick/onedark.vim)
