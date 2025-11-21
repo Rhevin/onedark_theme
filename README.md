@@ -3,6 +3,7 @@ Collection of onedark themes
 
 Color palette inspired by (https://github.com/Binaryify/OneDark-Pro)
 
+- [Chrome](https://chromewebstore.google.com/detail/one-dark/hpkjepofpoigjlihphohlecofocheiaf?pli=1)
 - [Fzf](Fzf/fzf.zsh)
 - [Ghostty](Ghostty/onedark)
 - [Git](Git/.gitconfig)
